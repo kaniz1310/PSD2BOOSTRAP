@@ -1,4 +1,4 @@
-#knzPSDB – PSD to HTML Responsive Landing Page
+# knzPSDB – PSD to HTML Responsive Landing Page
 
 ## Overview
 knzPSDB is a modern, visually rich PSD-to-HTML conversion project developed using HTML and CSS. The project demonstrates strong UI implementation skills, pixel-perfect design conversion, custom font integration, and clean asset management. It was created as a frontend practice and portfolio project to showcase real-world design-to-code workflow.
